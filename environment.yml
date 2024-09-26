@@ -1,4 +1,4 @@
-name: facenet_pytorch
+name: facenet_finetuning
 channels:
   - defaults
 dependencies:

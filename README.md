@@ -26,7 +26,7 @@ Current project is built based on [this repo](https://github.com/timesler/facene
 1.2. Import conda environment and activate it:
 ```bash
 conda env create -f environment.yml
-conda activate facenet_pytorch
+conda activate facenet_finetuning
 ```
 
 ## Step 2: 
