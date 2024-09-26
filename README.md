@@ -1,6 +1,6 @@
 <h1 align="center">Fine-tuning Facenet</h1>
 
-Current repo is built based on [this](https://github.com/timesler/facenet-pytorch).
+Current project is built based on [this repo](https://github.com/timesler/facenet-pytorch).
 
 ## Step 1: Set up everything
 
